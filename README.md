@@ -1,5 +1,9 @@
 # nixfleet-scopes
 
+[![CI](https://github.com/arcanesys/nixfleet-scopes/actions/workflows/ci.yml/badge.svg)](https://github.com/arcanesys/nixfleet-scopes/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE-MIT)
+[![v0.1.0](https://img.shields.io/github/v/tag/arcanesys/nixfleet-scopes?label=version)](https://github.com/arcanesys/nixfleet-scopes/releases/tag/v0.1.0)
+
 Reusable infrastructure scopes, roles, and disk templates for [NixFleet](https://github.com/arcanesys/nixfleet). Import a role to get a working NixOS or Darwin baseline, then override individual scopes as needed.
 
 ## What this ships
